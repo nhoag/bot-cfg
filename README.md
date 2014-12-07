@@ -1,4 +1,4 @@
 bot-cfg
 =======
 
-Configuration Dockerfile for Hubot
+Dockerfile for configuring [nhoag/hubot](https://registry.hub.docker.com/u/nhoag/hubot/).
