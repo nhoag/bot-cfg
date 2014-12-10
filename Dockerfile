@@ -14,6 +14,4 @@ ENV PORT ${HUBOT_PORT}
 
 EXPOSE ${HUBOT_PORT}
 
-WORKDIR /opt/bot
-
 CMD bin/hubot
